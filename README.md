@@ -37,7 +37,7 @@ The Tableau dashboard provides insights on:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MohitKumar987/Data_Science_JobSalaries.git
+   git clone https://github.com/premprakashjha/Data-Science-Job-Salary-Tableau.git
 2.Open tableau/dashboard.twbx in Tableau Desktop.
 
 3.If Tableau asks for data connections, link it to the file inside data/.
